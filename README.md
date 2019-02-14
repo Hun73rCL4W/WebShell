@@ -24,6 +24,8 @@
 ### Gallery
 
 #### Alfa Hun73r CL4W edition bypass shell
+##### User : hunter
+##### Pass : hun73r
 ![alfa hun73r](https://i.imgur.com/266JcVA.png)
 
 
