@@ -27,7 +27,9 @@
 ##### User : hunter
 ##### Pass : hun73r
 ![alfa hun73r](https://i.imgur.com/266JcVA.png)
-
+<br>
+#### WSO Gold Hun73r
+![wso hunter](https://i.imgur.com/OX0SFuU.jpg)
 
 
 ### Others shell coming soon......
